@@ -2,11 +2,11 @@
 
 ![logo](https://raw.github.com/jewelsea/conception/master/src/org/jewelsea/conception/resources/icons/flower-seed-icon-128.png)
 
-Conception allows you to edit, compile and run Java programs.
+Conception allows you to open, edit, compile and run Java programs.
 
 ### Build Prerequisites
- * Oracle JDK 7u15
- * NetBeans 7.3
+ * Oracle JDK 7u15 or Java 8 (1.8)
+ * NetBeans 7.3 or Later
 
 Please use the exact specified JDK version and NetBeans versions for building the application.
   
